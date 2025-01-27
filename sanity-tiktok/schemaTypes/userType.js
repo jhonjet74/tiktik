@@ -4,7 +4,7 @@ const userType = {
     type: 'document',
     fields: [
         {
-            name: 'UserName',
+            name: 'userName',
             title: 'User Name',
             type: 'string'
         },
